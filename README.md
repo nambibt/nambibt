@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m a Data Science Professional...
+- 🌱 I’m currently learning AWS Sagemaker/ML...
+
+
 <!--
 **nambibt/nambibt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
