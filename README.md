@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m a Data Science Professional...
-- 🌱 I’m currently learning AWS Sagemaker/ML...
-
-
+- 🌱 I’m currently learning *AWS Sagemaker*/ML...
+<!-- Links: [text](url)-->
+[Here is my LinkedIn Profile: https://www.linkedin.com/in/nambib/](https://www.linkedin.com/in/nambib/)
 <!--
 **nambibt/nambibt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
